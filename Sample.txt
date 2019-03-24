@@ -1,3 +1,4 @@
 Test file in GIT
 Adding text version1
 Adding text version2
+Adding some temp text
