@@ -1,1 +1,2 @@
 Test file in GIT
+Adding text version1
